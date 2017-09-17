@@ -1,6 +1,6 @@
 # Shoggoth - simple tools for building complex parsers
 
-<img width="200" alt="portfolio_view" src="https://github.com/NeuronQ/shoggoth/blob/master/logo.jpg">
+<img width="200" alt="portfolio_view" src="https://github.com/NeuronQ/shoggoth/raw/master/logo.jpg">
 
 ## STATUS:
 
