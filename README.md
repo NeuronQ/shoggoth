@@ -1,5 +1,7 @@
 # Shoggoth - simple tools for building complex parsers
 
+![](/logo.jpg =250x250)
+
 ## STATUS:
 
 **Work in progress!** Don't use it! Don't even ask me to explain, pretty pease!
@@ -27,7 +29,7 @@ the clear requirement that it is not tangle of regexes and has no buffer overflo
 ## Install
 
 ```
-go get https://github.com/NeuronQ/shoggots
+go get https://github.com/NeuronQ/shoggoth
 ```
 
 ## Example
