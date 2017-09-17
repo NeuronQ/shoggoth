@@ -1,6 +1,6 @@
 # Shoggoth - simple tools for building complex parsers
 
-![](/logo.jpg =250x250)
+<img width="200" alt="portfolio_view" src="https://github.com/NeuronQ/shoggoth/blob/master/logo.jpg">
 
 ## STATUS:
 
@@ -34,7 +34,7 @@ go get https://github.com/NeuronQ/shoggoth
 
 ## Example
 
-**NOTE:** This is already OUTLDATED, we've moved from struct based to functinal parsers
+**NOTE:** This is already OUTDATED, we've moved from struct based to functinal parsers
 for simplicity. See `shogo2/` equialents to what's below.
 
 ```go
