@@ -19,12 +19,12 @@ Because Parser Combinators are the coolest way to write infinitely flexible pars
 (like "parse C++ with JSON sprinkled as comments that changes semantic" or
 "parse this partially defined wrong grammar by Friday"), but all/most PC tools are
 written by academics who love nothing more than to jerk off with fancy sounding
-concepts and sprinkle monds all over their gonads...
+concepts and sprinkle monads all over their gonads...
 
 Because sometimes you have something that is totally fucked up, ill defined, and
 would require a 160+ IQ to write a proper gramar usable by a parser generator for it,
 but you still have to write a parser for it, under an unrealistic deadline, and with
-the clear requirement that it is not tangle of regexes and has no buffer overflows...
+the clear requirement that it is not a tangle of regexes and has no buffer overflows...
 
 ## Install
 
@@ -34,8 +34,7 @@ go get https://github.com/NeuronQ/shoggoth
 
 ## Example
 
-**NOTE:** This is already OUTDATED, we've moved from struct based to functinal parsers
-for simplicity. See `shogo2/` equialents to what's below.
+**NOTE:** This is already OUTDATED, we've moved from struct based to functional parsers for simplicity. See `shogo2/` equivalents to what's below.
 
 ```go
 // input string
